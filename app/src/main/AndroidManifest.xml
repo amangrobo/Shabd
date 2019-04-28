@@ -5,23 +5,22 @@
     <application
         android:name=".MyApplication"
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@drawable/shabd"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/ic_launcher_round"
+        android:roundIcon="@drawable/shabd"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <activity android:name=".Setting.LanguageSettingActivity">
+
+        </activity>
         <activity
             android:name=".Learn.Drawing.DrawingActivity"
             android:parentActivityName=".Learn.LearnActivity"
-            android:screenOrientation="portrait">
-
-        </activity>
+            android:screenOrientation="portrait"></activity>
         <activity
             android:name=".Learn.Piano.PianoActivity"
             android:screenOrientation="landscape"
-            android:theme="@style/AppTheme.NoActionBar">
-
-        </activity>
+            android:theme="@style/AppTheme.NoActionBar"></activity>
         <activity
             android:name=".signin.SigninActivity"
             android:screenOrientation="portrait"
