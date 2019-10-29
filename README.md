@@ -7,14 +7,6 @@
 
 # Overview
 "Autism is a complex neurobehavioral condition that includes impairments in social interaction and developmental language and communication skills combined with rigid, repetitive behavior". To overcome this problem we came up with an educational app that helps this people to get educated via a completely free platform. This app can also be used to educated the kids. The UI of the app is user friendly. The app acts like an all time friend for the autism patients, who are often neglected by the society.
-
-
-## Join us at
- 
- Gitter: [`https://gitter.im/dsciitpatna/Shabd`](https://gitter.im/dsciitpatna/Shabd)
- 
- Slack:[`https://bit.ly/2S1adeD`](https://bit.ly/2S1adeD)
- 
   
 ## Features
 * Vocabulary that's fast and efficient.
@@ -61,3 +53,11 @@ It is advisable to clone only the development branch using the following command
 * Make all the PR's in development branch.
 * Contact the mentors at Gitter or Slack channel before contributing.
 
+### Team Members
+* Amartya Mondal
+* Aman Jee
+* Anmol Chaddha
+* Aparsh Gupta
+* Somenath Sarkar
+* Oindrilla
+* Bhavna Haritsa
